@@ -1,0 +1,22 @@
+<div class="graphs">
+  @for (item of graphsList; track $index) {
+    <app-round-graph class="graph" [description]="item.description" value="{{ item.value }}" [percentage]="63" [primaryColor]="item.primaryColor"
+      icon="trending_up"></app-round-graph>
+  }
+</div>
+<div class="favorites">
+  <div class="top">
+    <p>Your Favorites</p>
+    <div class="search">
+      <input placeholder="Try 'Miami Beachhouse'" type="text">
+      <div class="icon">
+        <mat-icon>search</mat-icon>
+      </div>
+    </div>
+  </div>
+  <div class="properties">
+    @for (item of propertyList; track $index) {
+      <app-property-card [title]="item.title" [shortDescription]="item.shortDescription" [location]="item.location" [bedroomCount]="item.bedroomCount" [propertyType]="item.propertyType" />
+    }
+  </div>
+</div>

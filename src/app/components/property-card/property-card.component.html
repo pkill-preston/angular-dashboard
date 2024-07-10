@@ -1,0 +1,28 @@
+<div class="container">
+  <div class="image">
+    <img src="/placeholder.jpg" alt="" srcset="">
+  </div>
+  <div class="info">
+    <div>
+      <p>{{ title }}</p>
+      <p>{{ shortDescription }}</p>
+    </div>
+    <div class="chips">
+      <div class="chip">
+        <mat-icon class="material-icons-outlined" matListItemIcon>location_on</mat-icon>
+        <p class="text">{{ location }}</p>
+      </div>
+      <div class="chip">
+        <mat-icon class="material-icons-outlined" matListItemIcon>view_carousel</mat-icon>
+        <p class="text">{{ bedroomCount }}</p>
+      </div>
+      <div class="chip">
+        <mat-icon class="material-icons-outlined" matListItemIcon>domain</mat-icon>
+        <p class="text">{{ propertyType }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="listing">
+    <button [routerLink]="'/'+title" class="" mat-stroked-button>View listing details</button>
+  </div>
+</div>

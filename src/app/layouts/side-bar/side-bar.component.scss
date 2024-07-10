@@ -1,0 +1,98 @@
+.side-bar {
+
+  p,div {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+  }
+
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 15rem;
+  width: 100%;
+  border-right: 1px solid #C4C4C4;
+
+  .logo {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    max-height: 5.375rem;
+    align-items: center;
+    justify-content: center;
+
+    & > p {
+      margin: 0;
+      padding: 0;
+      font-size: 1.75em;
+    }
+  }
+
+  .list {
+    padding: 12px 0 12px 1.5rem;
+  }
+}
+
+.navigation {
+  width: 100%;
+  border-radius: 0 !important;
+
+  .mat-mdc-list-item {
+    border-radius: 0;
+  }
+
+  .mat-nav-list .mat-list-item:focus {
+    background-color: tomato;
+  }
+
+  .active-link::after {
+    right: 0;
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 4px;
+    background-color: #4040f2;
+    border-radius: 0 0 0 0 !important;
+  }
+}
+
+.item {
+  border-radius: 0;
+}
+
+.link {
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
+
+.action {
+
+  border-top: 1px solid #C4C4C4;
+
+  .mdc-card {
+
+    border-radius: 0px;
+
+    & > .mat-mdc-card-header {
+      .avatar {
+        width: 50px;
+        height: 50px;
+        background-image: url("../../../../public/avatar.jpg");
+        background-size: cover;
+      }
+
+      .name {
+        font-size: 1em;
+        font-weight: 500;
+      }
+
+      .title {
+        font-size: 18px;
+        font-weight: 400;
+      }
+    }
+  }
+}

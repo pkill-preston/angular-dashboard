@@ -1,0 +1,30 @@
+.heading {
+  display: flex;
+  height: 100% !important;
+  width: 100%;
+  max-height: 5.5rem;
+  padding: 0 2.25rem;
+  align-items: center;
+  justify-content: space-between;
+
+  .descriptions {
+    font-size: 1.75em;
+    margin: 0;
+  }
+
+  .buttons {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+
+    & > .flat {
+      background-color: #4040f2;
+    }
+
+    & > .round {
+      border-radius: 80%;
+      background-color: white;
+      border: 1px solid #C4C4C4
+    }
+  }
+}

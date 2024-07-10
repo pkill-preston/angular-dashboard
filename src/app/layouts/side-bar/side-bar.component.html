@@ -1,0 +1,34 @@
+<div class="side-bar">
+  <div class="logo">
+    <p>Investly.</p>
+  </div>
+    <mat-nav-list class="navigation" role="navigation">
+    @for (item of items.slice(0,7); track $index) {
+      <a style="text-decoration: none;color: black;" [routerLink]="item.route">
+      <mat-list-item routerLinkActive="active-link">
+        <mat-icon class="material-icons-outlined" matListItemIcon>{{item.icon}}</mat-icon>
+        <div matListItemTitle>{{item.category}}</div>
+      </mat-list-item>
+      </a>
+    }
+    </mat-nav-list>
+    <mat-nav-list class="navigation" role="navigation">
+      @for (item of items.slice(7,9); track $index) {
+      <a style="text-decoration: none;color: black;" [routerLink]="item.route">
+        <mat-list-item routerLinkActive="active-link">
+          <mat-icon class="material-icons-outlined" matListItemIcon>{{item.icon}}</mat-icon>
+          <div matListItemTitle>{{item.category}}</div>
+        </mat-list-item>
+      </a>
+      }
+    </mat-nav-list>
+  <div class="action">
+    <mat-card>
+      <mat-card-header>
+        <div div mat-card-avatar class="avatar"></div>
+        <mat-card-title class="name">사랑해 da Silva</mat-card-title>
+        <mat-card-subtitle class="title">01 do bagui</mat-card-subtitle>
+      </mat-card-header>
+    </mat-card>
+  </div>
+</div>

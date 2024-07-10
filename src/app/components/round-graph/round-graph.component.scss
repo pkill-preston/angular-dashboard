@@ -1,0 +1,46 @@
+.graph {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  max-width: 22.5rem;
+  max-height: 10rem;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid #C4C4C4;
+  box-sizing: border-box;
+
+  .texts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    & > p {
+      margin: 0;
+    }
+
+    & > .description {
+      font-size: 1.125em;
+      font-weight: 1000;
+      color: #373F47;
+    }
+
+    & > .value{
+      font-size: 1.75em;
+      font-weight: 700;
+      color: #242D35;
+    }
+
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 8.75rem;
+    position: relative;
+
+    & > .icon {
+      position: absolute;
+    }
+  }
+}

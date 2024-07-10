@@ -1,0 +1,216 @@
+{
+  "properties": [
+    {
+      "title": "New York Townhouse",
+      "description": "A beautiful suburban property investment within reach of the top Boston universities and bountiful shopping opportunities. The house was renovated by John Steeley of McNeely Peeley’s in South Philly. Boasting eleventeen bedrooms, fourty bidets and a manscaping room this house is set to generate huge interest from the financial capital markets. Currently offered for joint investment on a pro rata deriviatives equine distribution model through venture capital star investments capital limited. Free viewings online or via wetransfer download buckets. Contact managing agent for counselling sessions.",
+      "shortDescription": "A beautiful townhouse in the heart of Miami’s down town district. With 3 bedrooms and a heated pool.",
+      "location": "Boston",
+      "bedroomCount": 5,
+      "propertyType": "Townhouse",
+      "askingPrice": 999999,
+      "contact": "+44 020 8479 9242",
+      "managingAgent": "Kim Ji Woo",
+      "expectedProfit": "5%",
+      "whenAvailable": "21/01/2022"
+    },
+    {
+      "title": "Luxury Beachfront Villa",
+      "description": "Experience unparalleled luxury in this exquisite beachfront villa located in the heart of Malibu. Featuring panoramic ocean views, seven spacious bedrooms, and a private infinity pool. Renovated by renowned architect David Smith, this property combines modern elegance with coastal charm. Ideal for those seeking a serene retreat or a lucrative investment opportunity.",
+      "shortDescription": "Exquisite beachfront villa with 7 bedrooms and infinity pool.",
+      "location": "Malibu",
+      "bedroomCount": 7,
+      "propertyType": "Villa",
+      "askingPrice": 12500000,
+      "contact": "+1 310-555-1234",
+      "managingAgent": "Sarah Johnson",
+      "expectedProfit": "8%",
+      "whenAvailable": "Immediate"
+    },
+    {
+      "title": "Modern Downtown Loft",
+      "description": "Discover urban living at its finest in this modern loft nestled in downtown Manhattan. With floor-to-ceiling windows offering breathtaking city views, this spacious loft features two bedrooms, a designer kitchen, and exclusive access to rooftop amenities including a gym and lounge. Perfect for professionals and investors looking to capitalize on the vibrant NYC real estate market.",
+      "shortDescription": "Modern loft with city views, 2 bedrooms, and rooftop amenities.",
+      "location": "Manhattan",
+      "bedroomCount": 2,
+      "propertyType": "Loft",
+      "askingPrice": 1800000,
+      "contact": "+1 212-555-5678",
+      "managingAgent": "Michael Brown",
+      "expectedProfit": "6%",
+      "whenAvailable": "15/08/2024"
+    },
+    {
+      "title": "Historic Country Estate",
+      "description": "Step into history with this magnificent country estate nestled in the rolling hills of Vermont. Originally built in 1820 and meticulously restored, this property boasts nine bedrooms, extensive gardens, and a charming barn converted into a guest house. Ideal for private residence or as a boutique hotel investment opportunity.",
+      "shortDescription": "Historic estate with 9 bedrooms, gardens, and guest house.",
+      "location": "Vermont",
+      "bedroomCount": 9,
+      "propertyType": "Estate",
+      "askingPrice": 3750000,
+      "contact": "+1 802-555-6789",
+      "managingAgent": "Emily Davis",
+      "expectedProfit": "4%",
+      "whenAvailable": "01/09/2024"
+    },
+    {
+      "title": "City Penthouse",
+      "description": "Indulge in luxury living with this stunning penthouse located in the heart of downtown Chicago. Offering expansive views of the city skyline, this penthouse features four bedrooms, a gourmet kitchen, and exclusive access to a rooftop terrace with a private pool. Perfect for discerning buyers looking for elegance and convenience.",
+      "shortDescription": "Luxurious penthouse with city skyline views and rooftop pool.",
+      "location": "Chicago",
+      "bedroomCount": 4,
+      "propertyType": "Penthouse",
+      "askingPrice": 5200000,
+      "contact": "+1 312-555-9012",
+      "managingAgent": "John Smith",
+      "expectedProfit": "7%",
+      "whenAvailable": "10/10/2024"
+    },
+    {
+      "title": "Coastal Cottage",
+      "description": "Escape to tranquility with this charming coastal cottage nestled along the shores of Cape Cod. Featuring three bedrooms, a cozy fireplace, and panoramic ocean views, this cottage is perfect for those seeking a peaceful retreat by the sea. Renovated with modern amenities while preserving its historic charm.",
+      "shortDescription": "Charming coastal cottage with 3 bedrooms and ocean views.",
+      "location": "Cape Cod",
+      "bedroomCount": 3,
+      "propertyType": "Cottage",
+      "askingPrice": 850000,
+      "contact": "+1 508-555-3456",
+      "managingAgent": "Jane Williams",
+      "expectedProfit": "3%",
+      "whenAvailable": "01/11/2024"
+    },
+    {
+      "title": "Mountain Retreat",
+      "description": "Discover serenity in this secluded mountain retreat located in the Rockies. Surrounded by breathtaking views and pristine wilderness, this retreat features six bedrooms, a rustic log cabin design, and access to hiking trails and ski slopes. Ideal for nature enthusiasts and those seeking an escape from city life.",
+      "shortDescription": "Secluded mountain retreat with 6 bedrooms and scenic views.",
+      "location": "Rockies",
+      "bedroomCount": 6,
+      "propertyType": "Retreat",
+      "askingPrice": 2300000,
+      "contact": "+1 720-555-7890",
+      "managingAgent": "David Thompson",
+      "expectedProfit": "5%",
+      "whenAvailable": "01/12/2024"
+    },
+    {
+      "title": "Vineyard Estate",
+      "description": "Embrace the vineyard lifestyle with this luxurious estate nestled in Napa Valley. Spanning acres of vineyards and gardens, this estate features a main residence with five bedrooms, a wine cellar, and a guest house overlooking the rolling hills. Perfect for wine connoisseurs and investors in the hospitality industry.",
+      "shortDescription": "Luxurious vineyard estate with 5 bedrooms and wine cellar.",
+      "location": "Napa Valley",
+      "bedroomCount": 5,
+      "propertyType": "Estate",
+      "askingPrice": 7900000,
+      "contact": "+1 707-555-2345",
+      "managingAgent": "Sophia Martinez",
+      "expectedProfit": "6%",
+      "whenAvailable": "15/01/2025"
+    },
+    {
+      "title": "Lakeside Cabin",
+      "description": "Escape to this charming lakeside cabin nestled on the shores of Lake Tahoe. Featuring two bedrooms, a stone fireplace, and a private dock, this cabin offers year-round recreation and breathtaking lake views. Ideal for outdoor enthusiasts and vacation rental investors.",
+      "shortDescription": "Charming lakeside cabin with 2 bedrooms and private dock.",
+      "location": "Lake Tahoe",
+      "bedroomCount": 2,
+      "propertyType": "Cabin",
+      "askingPrice": 1200000,
+      "contact": "+1 775-555-6789",
+      "managingAgent": "Oliver Davis",
+      "expectedProfit": "4%",
+      "whenAvailable": "01/02/2025"
+    },
+    {
+      "title": "Urban Townhouse",
+      "description": "Experience urban living in this stylish townhouse located in downtown San Francisco. Featuring four bedrooms, a modern kitchen, and a rooftop terrace with city views, this townhouse offers luxury and convenience. Ideal for professionals and families seeking a vibrant city lifestyle.",
+      "shortDescription": "Stylish urban townhouse with 4 bedrooms and rooftop terrace.",
+      "location": "San Francisco",
+      "bedroomCount": 4,
+      "propertyType": "Townhouse",
+      "askingPrice": 3600000,
+      "contact": "+1 415-555-7890",
+      "managingAgent": "Ella Thompson",
+      "expectedProfit": "5%",
+      "whenAvailable": "01/03/2025"
+    },
+    {
+      "title": "Desert Retreat",
+      "description": "Find tranquility in this desert retreat nestled in Arizona's Sonoran Desert. Featuring three bedrooms, a southwestern-style design, and expansive desert views, this retreat offers privacy and natural beauty. Ideal for those seeking a peaceful oasis away from the city.",
+      "shortDescription": "Desert retreat with 3 bedrooms and southwestern design.",
+      "location": "Sonoran Desert",
+      "bedroomCount": 3,
+      "propertyType": "Retreat",
+      "askingPrice": 950000,
+      "contact": "+1 480-555-1234",
+      "managingAgent": "Lucas Garcia",
+      "expectedProfit": "3%",
+      "whenAvailable": "01/04/2025"
+    },
+    {
+      "title": "Historic Brownstone",
+      "description": "Own a piece of history with this historic brownstone located in Brooklyn Heights. Built in the 1800s and carefully restored, this brownstone features four bedrooms, original architectural details, and a private garden. Perfect for those seeking historic charm combined with modern amenities.",
+      "shortDescription": "Historic brownstone with 4 bedrooms and private garden.",
+      "location": "Brooklyn Heights",
+      "bedroomCount": 4,
+      "propertyType": "Brownstone",
+      "askingPrice": 4200000,
+      "contact": "+1 718-555-5678",
+      "managingAgent": "Anna Clark",
+      "expectedProfit": "5%",
+      "whenAvailable": "01/05/2025"
+    },
+    {
+      "title": "Riverfront Condo",
+      "description": "Enjoy riverfront living in this contemporary condo located along the Chicago River. Featuring two bedrooms, floor-to-ceiling windows, and access to building amenities including a fitness center and rooftop deck. Ideal for those seeking a modern, urban lifestyle with scenic views.",
+      "shortDescription": "Contemporary riverfront condo with 2 bedrooms and amenities.",
+      "location": "Chicago",
+      "bedroomCount": 2,
+      "propertyType": "Condo",
+      "askingPrice": 1600000,
+      "contact": "+1 312-555-3456",
+      "managingAgent": "Emma Roberts",
+      "expectedProfit": "4%",
+      "whenAvailable": "01/06/2025"
+    },
+    {
+      "title": "Suburban Family Home",
+      "description": "Ideal for families, this spacious home is located in a quiet suburban neighborhood in Seattle. Featuring five bedrooms, a large backyard, and a modern kitchen, this home offers comfort and convenience. Close to top schools, parks, and shopping centers.",
+      "shortDescription": "Spacious family home with 5 bedrooms and large backyard.",
+      "location": "Seattle",
+      "bedroomCount": 5,
+      "propertyType": "Home",
+      "askingPrice": 2200000,
+      "contact": "+1 206-555-7890",
+      "managingAgent": "Noah Wilson",
+      "expectedProfit": "4%",
+      "whenAvailable": "01/07/2025"
+    },
+    {
+      "title": "Eco-Friendly Home",
+      "description": "Embrace sustainable living in this eco-friendly home located in Portland. Featuring solar panels, rainwater harvesting, and energy-efficient appliances, this home combines modern living with environmental responsibility. With three bedrooms and a spacious garden, it's perfect for eco-conscious families.",
+      "shortDescription": "Eco-friendly home with 3 bedrooms and sustainable features.",
+      "location": "Portland",
+      "bedroomCount": 3,
+      "propertyType": "Home",
+      "askingPrice": 1800000,
+      "contact": "+1 503-555-5678",
+      "managingAgent": "Olivia White",
+      "expectedProfit": "5%",
+      "whenAvailable": "01/08/2025"
+    }
+  ],
+  "graphs":[
+    {
+      "description": "Today's sales",
+      "value": 2456,
+      "primaryColor": "#44C13C"
+    },
+    {
+      "description": "New Products",
+      "value": 221,
+      "primaryColor": "#4040F2"
+    },
+    {
+      "description": "Inventory",
+      "value": 1425,
+      "primaryColor": "#FF513A"
+    }
+  ]
+}
